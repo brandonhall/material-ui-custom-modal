@@ -15,6 +15,9 @@ Please remember that this repo is just a demonstration of how it's done. Your `C
 likely be much different. This example is provided to give you a starting point and the required 
 positioning methods.
 
+### Demo
+![image](https://user-images.githubusercontent.com/1144477/38765306-f3fea08e-3f8c-11e8-8c16-8eb7ef323ef6.gif)
+
 ### Usage
 
 1. Install dependencies:
